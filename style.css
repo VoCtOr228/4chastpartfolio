@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: darkblue;
+}
+
+main {
+    color: darkcyan;
+    background-color: darkslateblue;
+}
+
+p {
+  color: darkblue;
+}
+
+a {
+    color: darkorange;
+    text-decoration: none;
+}
+
+footer {
+    color: darkcyan;
+    background-color: darkslateblue;
+}
