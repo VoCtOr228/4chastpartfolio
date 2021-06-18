@@ -1,3 +1,4 @@
+
 body {
     font-family: sans-serif;
 }
@@ -7,12 +8,12 @@ header {
 }
 
 main {
-    color: darkcyan;
-    background-color: darkred;
+    color: darkred;
+    background-color: darkslateblue;
 }
 
 p {
-  color: darkblue;
+  color: Aqua;
 }
 
 a {
@@ -21,7 +22,6 @@ a {
 }
 
 footer {
-    color: darkcyan;
     background-color: darkslateblue;
 }
 
